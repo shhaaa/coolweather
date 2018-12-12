@@ -1,1 +1,3 @@
-# coolweather
+和风天气
+用户ID: HE1812121139341185
+认证key：593e72b2d2854fd4a94a542cf4d91d32
